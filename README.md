@@ -1,4 +1,4 @@
-
+![Alt text](/
 
 # Dynamic Website Deployment on AWS - DevOps Project
 
